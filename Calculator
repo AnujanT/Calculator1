@@ -1,0 +1,12 @@
+public class Myproject { 
+	public static void main(String[] args)  {
+
+		int first_number;
+		first_number = 10;
+
+		int second_number;
+		second_number = 10;
+
+		System.out.println (first_number + second_number );
+	}
+}
